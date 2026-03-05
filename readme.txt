@@ -20,15 +20,15 @@ Preventative Measures: Best practices to avoid future outbreaks.
 Organic Remedies: Natural solutions for sustainable farming.
 
 ⚙️ Technologies Used
-Frontend: [List your frontend technologies, e.g., React, Vue.js, Flutter]
+Frontend: [ React, Vue.js, Flutter]
 
-Backend: [List your backend technologies, e.g., Python (Flask/Django), Node.js (Express)]
+Backend: [Python (Flask/Django), Node.js (Express)]
 
-AI/ML: [List your AI libraries, e.g., TensorFlow, PyTorch, scikit-learn]
+AI/ML: [ TensorFlow, PyTorch, scikit-learn]
 
-Database: [List your database, e.g., PostgreSQL, MongoDB]
+Database: [ PostgreSQL, MongoDB]
 
-Other: [List other key tools or APIs, e.g., Google Cloud Vision API, multilingual text-to-speech services]
+Other: [ Google Cloud Vision API, multilingual text-to-speech services]
 
 🚀 Getting Started
 Follow these steps to get a local copy of the project up and running on your machine.
